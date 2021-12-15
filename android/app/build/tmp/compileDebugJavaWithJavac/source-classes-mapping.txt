@@ -1,0 +1,14 @@
+com/jasminetest/MainApplication.java
+ com.jasminetest.MainApplication
+ com.jasminetest.MainApplication$1
+com/jasminetest/ReactNativeFlipper.java
+ com.jasminetest.ReactNativeFlipper
+ com.jasminetest.ReactNativeFlipper$1
+ com.jasminetest.ReactNativeFlipper$2
+ com.jasminetest.ReactNativeFlipper$2$1
+com/jasminetest/MainActivity.java
+ com.jasminetest.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/jasminetest/BuildConfig.java
+ com.jasminetest.BuildConfig
